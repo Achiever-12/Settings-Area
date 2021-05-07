@@ -1,0 +1,190 @@
+body {
+    
+}
+
+.main{
+    width:100%;
+    height:100%;
+    background-color:#fff;
+    position:fixed ;
+    top:0px;
+    left:0px;
+}
+
+#text{
+    position:relative ;
+    top:2vh;
+}
+
+#back{
+    position:absolute ;
+    top:4.3vh;
+    font-size:23px;
+    left:3vh;
+    font-weight:lighter;
+}
+
+#input{
+    position:relative ;
+    width:80%;
+    height:35px;
+    background-color:#eee;
+    border:none;
+    top:7vh;
+    border-radius:5px;
+    outline:none ;
+    font-weight:bold;
+}
+
+#icon{
+    position:absolute ;
+    left:7vh;
+    top:17.4vh;
+}
+
+::placeholder{
+    color:black;
+    font-weight:bold;
+    left:35px;
+    position:relative ;
+}
+
+.account_area{
+    width:90%;
+    position:relative ;
+    height:50px;
+    border:1px solid white;
+    border-bottom-color:black;
+    top:20vh;
+    margin:auto ;
+}
+
+#user{
+    position:absolute ;
+    font-size:27px;
+    color:white;
+    -webkit-text-stroke:2px #000;
+    left:3vh;
+    top:2vh;
+}
+
+#user-text{
+    position:absolute ;
+    left:9vh;
+    top:-0.2vh;
+}
+
+
+#go1{
+    position:absolute ;
+    font-size:20px;
+    color:black;
+    -webkit-text-stroke:2px #000;
+    left:45vh;
+    top:3vh;
+}
+
+.not_area{
+    width:90%;
+    position:relative ;
+    height:50px;
+    border:1px solid white;
+    border-bottom-color:black;
+    top:40vh;
+    margin:auto ;
+}
+
+#bell{
+    position:absolute ;
+    font-size:27px;
+    color:white;
+    -webkit-text-stroke:2px #000;
+    left:3vh;
+    top:2vh;
+}
+
+#not-text{
+    position:absolute ;
+    left:9vh;
+    top:-0.2vh;
+}
+
+
+#go2{
+    position:absolute ;
+    font-size:20px;
+    color:black;
+    -webkit-text-stroke:2px #000;
+    left:45vh;
+    top:3vh;
+}
+
+.pri_area{
+    width:90%;
+    position:relative ;
+    height:50px;
+    border:1px solid white;
+    border-bottom-color:black;
+    top:37vh;
+    margin:auto ;
+}
+
+#lock{
+    position:absolute ;
+    font-size:27px;
+    color:white;
+    -webkit-text-stroke:2px #000;
+    left:3vh;
+    top:2vh;
+}
+
+#pri-text{
+    position:absolute ;
+    left:9vh;
+    top:-0.2vh;
+}
+
+
+#go3{
+    position:absolute ;
+    font-size:20px;
+    color:black;
+    -webkit-text-stroke:2px #000;
+    left:45vh;
+    top:3vh;
+}
+
+.ab_area{
+    width:90%;
+    position:relative ;
+    height:50px;
+    border:1px solid white;
+    border-bottom-color:black;
+    top:41vh;
+    margin:auto ;
+}
+
+#info{
+    position:absolute ;
+    font-size:27px;
+    color:white;
+    -webkit-text-stroke:1.5px #000;
+    left:3vh;
+    top:2vh;
+}
+
+#ab-text{
+    position:absolute ;
+    left:9vh;
+    top:-0.2vh;
+}
+
+
+#go4{
+    position:absolute ;
+    font-size:20px;
+    color:black;
+    -webkit-text-stroke:2px #000;
+    left:45vh;
+    top:3vh;
+}
